@@ -16,6 +16,9 @@
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leandro-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
+ 
+## Links
+<a href="https://www.linkedin.com/in/leandro-de-lima-barros-bernardes-17688721a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <!--
 **LeandroLBBernardes/LeandroLBBernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
