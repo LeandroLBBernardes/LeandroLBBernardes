@@ -1,5 +1,5 @@
-### Olá, eu sou o Leandro Bernardes 👋
-##
+## Olá, eu sou o Leandro Bernardes 👋
+
 <div>
   <a href="https://github.com/LeandroLBBernardes">
   <img 
@@ -8,7 +8,7 @@
 </div>
 
 ## Tecnologias que uso no meu dia
-##
+
 <!--
 **LeandroLBBernardes/LeandroLBBernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
