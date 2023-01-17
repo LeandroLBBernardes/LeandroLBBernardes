@@ -1,5 +1,5 @@
 ### Olá, eu sou o Leandro Bernardes 👋
-<hr>
+##
 <div>
   <a href="https://github.com/LeandroLBBernardes">
   <img 
@@ -7,6 +7,8 @@
     src="https://github-readme-stats.vercel.app/api?username=LeandroLBBernardes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+## Tecnologias que uso no meu dia
+##
 <!--
 **LeandroLBBernardes/LeandroLBBernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
