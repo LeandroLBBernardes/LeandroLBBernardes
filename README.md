@@ -1,5 +1,5 @@
 ### Olá, eu sou o Leandro Bernardes 👋
-
+<hr>
 <div>
   <a href="https://github.com/LeandroLBBernardes">
   <img 
