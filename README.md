@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end e back-end
 - 🌱 Estudante de Sistemas de informação
-
+<br />
 <div>
   <a href="https://github.com/LeandroLBBernardes">
   <img 
